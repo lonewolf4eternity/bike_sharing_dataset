@@ -26,4 +26,5 @@ casual: count of casual users
 registered: count of registered users
 cnt: count of total rental bikes including both casual and registered
 for further more information please go through the following link,
-http://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset
+
+https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset
