@@ -11,3 +11,4 @@ pip install streamlit numpy pandas matplotlib seaborn jupyter
 ```
 streamlit run bike_sharing.py
 ```
+about dataset please check file : about_dataset.txt
