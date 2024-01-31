@@ -144,4 +144,4 @@ else:
 
 
 
-st.caption ('Revardy D. Caear (c) 2023 | Dicoding Indonesia | Proyek Analisis Data : Bike Sharing Dataset')
+st.caption ('Revardy D. Caear (c) 2023 | Proyek Analisis Data : Bike Sharing Dataset')
